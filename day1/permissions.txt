@@ -1,0 +1,14 @@
+Linux Permissions Basics
+
+Linux permissions control access to files and directories.
+
+r -> read
+w -> write
+x -> execute
+
+Example:
+-rw-r--r--
+
+Owner has read/write permissions.
+Group has read permission.
+Others have read permission.

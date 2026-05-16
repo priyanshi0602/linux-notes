@@ -1,0 +1,11 @@
+Linux Navigation Commands
+
+pwd -> shows current directory
+ls -> lists files and folders
+ls -la -> lists hidden files too
+cd -> change directory
+mkdir -> create folder
+touch -> create file
+cp -> copy files
+mv -> move or rename files
+rm -> remove files
