@@ -1,0 +1,24 @@
+Linux File Permissions
+
+r -> read
+w -> write
+x -> execute
+
+Example:
+-rwxr-xr--
+
+Owner:
+rwx -> read, write, execute
+
+Group:
+r-x -> read and execute
+
+Others:
+r-- -> read only
+
+chmod -> change permissions
+
+Examples:
+chmod +x file.sh
+chmod 777 file.sh
+chmod 644 file.txt

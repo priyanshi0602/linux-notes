@@ -1,0 +1,17 @@
+Linux Users and Groups
+
+whoami -> shows current logged-in user
+
+users -> shows logged-in users
+
+id -> shows user ID and group ID
+
+sudo -> run command as administrator
+
+adduser -> create new user
+
+passwd -> change password
+
+groups -> shows groups of current user
+
+Linux uses users and groups for security and access control.

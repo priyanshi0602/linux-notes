@@ -1,0 +1,13 @@
+Linux Processes
+
+ps -> shows running processes
+
+top -> real-time system monitoring
+
+kill -> stop process
+
+kill -9 PID -> force stop process
+
+jobs -> shows background jobs
+
+Process management is important in servers and DevOps systems.
