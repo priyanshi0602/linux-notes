@@ -1,0 +1,13 @@
+Environment Variables
+
+echo $HOME -> shows home directory
+
+echo $USER -> shows current user
+
+echo $PATH -> shows executable search paths
+
+Environment variables are important for:
+- Docker
+- CI/CD
+- Cloud systems
+- Application configuration

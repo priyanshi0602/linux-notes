@@ -1,0 +1,35 @@
+Linux Searching Commands
+
+find -> search files and folders
+
+Examples:
+find . -name "*.txt"
+
+grep -> search text inside files
+
+Example:
+grep "Linux" file.txt
+
+history -> shows previously used commands
+
+locate -> quickly finds files
+
+Searching commands are heavily used in servers and log analysis.
+
+Linux Networking Basics
+
+ping -> checks connectivity
+
+Example:
+ping google.com
+
+curl -> fetch data from URLs
+
+Example:
+curl https://google.com
+
+ip a -> shows IP addresses
+
+hostname -> shows system name
+
+Networking is one of the most important DevOps skills.
