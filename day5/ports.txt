@@ -1,0 +1,14 @@
+Networking Ports
+
+Ports help identify network services.
+
+Common Ports:
+22  -> SSH
+80  -> HTTP
+443 -> HTTPS
+
+Commands:
+ss -tuln
+netstat -tuln
+
+Ports are critical in networking and cloud systems.

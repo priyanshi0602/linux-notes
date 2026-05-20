@@ -1,0 +1,16 @@
+Linux Logs
+
+Logs help debug system issues.
+
+Common log commands:
+
+journalctl
+Shows system logs
+
+journalctl -u nginx
+Shows nginx logs
+
+dmesg
+Shows kernel/system messages
+
+Logs are critical in DevOps troubleshooting.

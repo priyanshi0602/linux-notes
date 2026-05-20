@@ -1,0 +1,19 @@
+Linux Services
+
+systemctl -> manage services
+
+Commands:
+
+systemctl status nginx
+Checks service status
+
+systemctl start nginx
+Starts service
+
+systemctl stop nginx
+Stops service
+
+systemctl restart nginx
+Restarts service
+
+Services are background programs running on Linux systems.

@@ -1,0 +1,11 @@
+Cron Jobs
+
+Cron jobs automate scheduled tasks in Linux.
+
+Open cron editor:
+crontab -e
+
+Example:
+* * * * * echo "Hello"
+
+Cron jobs are heavily used in automation and DevOps.

@@ -1,0 +1,19 @@
+Linux Package Management
+
+apt -> package manager for Ubuntu
+
+Commands:
+
+sudo apt update
+Updates package list
+
+sudo apt upgrade
+Upgrades installed packages
+
+sudo apt install nginx
+Installs software
+
+sudo apt remove nginx
+Removes software
+
+Package managers help automate software installation and updates.

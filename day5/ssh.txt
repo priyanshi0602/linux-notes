@@ -1,0 +1,16 @@
+SSH - Secure Shell
+
+SSH is used to remotely access Linux servers securely.
+
+Basic command:
+ssh username@server-ip
+
+Examples:
+ssh ubuntu@192.168.1.10
+
+Important concepts:
+- Remote server access
+- Secure encrypted communication
+- Authentication
+
+SSH is one of the most important DevOps tools.
