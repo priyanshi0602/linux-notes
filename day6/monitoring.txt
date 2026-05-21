@@ -1,0 +1,17 @@
+System Monitoring
+
+Monitoring helps track system performance.
+
+Commands:
+top
+free -h
+df -h
+uptime
+
+Important metrics:
+- CPU usage
+- Memory usage
+- Disk usage
+- Load average
+
+Monitoring is critical in DevOps and cloud systems.

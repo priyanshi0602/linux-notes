@@ -1,0 +1,19 @@
+Linux Processes
+
+A process is a running program.
+
+Commands:
+
+ps
+Shows current processes
+
+ps aux
+Shows all running processes
+
+top
+Real-time system monitoring
+
+kill PID
+Stops a process
+
+Processes are fundamental in Linux system management.

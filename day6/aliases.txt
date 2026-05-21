@@ -1,0 +1,8 @@
+Linux Aliases
+
+Aliases create shortcuts for commands.
+
+Example:
+alias ll='ls -la'
+
+Useful aliases save time and improve productivity.
