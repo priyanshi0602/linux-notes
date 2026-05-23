@@ -1,0 +1,9 @@
+curl Command
+
+curl transfers data using URLs.
+
+Examples:
+curl google.com
+curl ifconfig.me
+
+curl is heavily used in APIs, automation, and DevOps workflows.

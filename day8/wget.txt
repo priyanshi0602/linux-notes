@@ -1,0 +1,8 @@
+wget Command
+
+wget downloads files from the internet.
+
+Example:
+wget https://example.com
+
+wget is commonly used in deployments and automation scripts.

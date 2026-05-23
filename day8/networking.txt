@@ -1,0 +1,17 @@
+Linux Networking Basics
+
+Networking allows systems to communicate with each other.
+
+Important concepts:
+- IP address
+- ports
+- DNS
+- HTTP/HTTPS
+
+Commands:
+ip a
+ping
+curl
+wget
+
+Networking is a core part of DevOps and cloud computing.
