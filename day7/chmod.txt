@@ -1,0 +1,9 @@
+chmod Command
+
+chmod changes file permissions.
+
+Examples:
+chmod +x script.sh
+chmod 755 file.sh
+
+chmod is heavily used in shell scripting and DevOps automation.

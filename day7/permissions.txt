@@ -1,0 +1,18 @@
+Linux File Permissions
+
+Linux controls access using permissions.
+
+Permission Types:
+r -> read
+w -> write
+x -> execute
+
+Permission Groups:
+- owner
+- group
+- others
+
+Example:
+-rwxr-xr--
+
+Permissions are critical for Linux security and DevOps systems.

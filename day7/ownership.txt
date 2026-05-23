@@ -1,0 +1,9 @@
+File Ownership
+
+Linux files have owners and groups.
+
+Commands:
+ls -l
+chown
+
+Ownership controls who can access and modify files.
