@@ -1,0 +1,15 @@
+APT Commands
+
+Update package list:
+sudo apt update
+
+Upgrade installed packages:
+sudo apt upgrade
+
+Install package:
+sudo apt install package-name
+
+Remove package:
+sudo apt remove package-name
+
+APT is commonly used in Ubuntu and Debian systems.

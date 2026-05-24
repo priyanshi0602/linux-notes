@@ -1,0 +1,8 @@
+Software Installation in Linux
+
+Linux allows software installation directly from repositories.
+
+Example:
+sudo apt install tree
+
+Useful software can be installed quickly using package managers.

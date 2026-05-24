@@ -1,0 +1,14 @@
+Linux Package Management
+
+Linux uses package managers to install and manage software.
+
+Ubuntu uses:
+apt
+
+Package managers help:
+- install software
+- update software
+- remove software
+- manage dependencies
+
+Package management is very important in DevOps and server administration.
