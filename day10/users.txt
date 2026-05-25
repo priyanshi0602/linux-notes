@@ -1,0 +1,20 @@
+Linux Users
+
+Linux is a multi-user operating system.
+
+Each user has:
+- username
+- home directory
+- permissions
+
+Current user:
+whoami
+
+User information:
+id
+
+Home directory:
+echo $HOME
+
+Linux stores user information in:
+/etc/passwd

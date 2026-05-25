@@ -1,0 +1,14 @@
+Linux Groups
+
+Groups help manage permissions for multiple users.
+
+Commands:
+
+View groups:
+groups
+
+View current user groups:
+groups username
+
+Linux stores group information in:
+/etc/group

@@ -1,0 +1,11 @@
+Sudo in Linux
+
+sudo allows users to run commands with administrator privileges.
+
+Example:
+sudo apt update
+
+Important:
+- protects system security
+- prevents accidental changes
+- provides controlled access
