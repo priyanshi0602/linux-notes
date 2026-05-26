@@ -1,0 +1,17 @@
+tar Command
+
+tar is used to archive files and folders in Linux.
+
+Common Commands:
+
+Create archive:
+tar -cvf archive.tar foldername
+
+Extract archive:
+tar -xvf archive.tar
+
+tar is commonly used for:
+- backups
+- deployments
+- log storage
+- server migrations

@@ -1,0 +1,14 @@
+Linux Compression
+
+Compression helps:
+- reduce storage
+- speed up transfers
+- create backups
+
+Common tools:
+- tar
+- gzip
+- zip
+- unzip
+
+Compression is heavily used in DevOps and cloud systems.

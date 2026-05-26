@@ -1,0 +1,11 @@
+zip and unzip Commands
+
+zip compresses files and folders.
+
+Create zip:
+zip -r files.zip foldername
+
+Extract zip:
+unzip files.zip
+
+Compression reduces file size and helps file transfer.
