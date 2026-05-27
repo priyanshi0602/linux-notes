@@ -1,0 +1,12 @@
+Bash Loops
+
+Loops repeat commands automatically.
+
+Example:
+
+for i in 1 2 3
+do
+    echo $i
+done
+
+Loops are useful in automation and repetitive tasks.

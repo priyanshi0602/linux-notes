@@ -1,0 +1,11 @@
+Bash Variables
+
+Variables store values in scripts.
+
+Example:
+name="Priyanshi"
+
+Access variable:
+echo $name
+
+Variables help automate scripts dynamically.

@@ -1,0 +1,15 @@
+Bash Conditions
+
+Conditions allow decision making in scripts.
+
+Syntax:
+
+if [ condition ]
+then
+    command
+fi
+
+Used for:
+- automation
+- validations
+- system checks
