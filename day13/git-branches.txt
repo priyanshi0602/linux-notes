@@ -1,0 +1,17 @@
+Git Branches
+
+Branches allow developers to work on features separately.
+
+Commands:
+
+Create branch:
+git branch branch-name
+
+Switch branch:
+git checkout branch-name
+
+Create and switch:
+git checkout -b branch-name
+
+View branches:
+git branch

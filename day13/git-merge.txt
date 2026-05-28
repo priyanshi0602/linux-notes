@@ -1,0 +1,8 @@
+Git Merge
+
+Merge combines changes from one branch into another.
+
+Example:
+git merge feature-branch
+
+Merging is commonly used in team collaboration and DevOps workflows.

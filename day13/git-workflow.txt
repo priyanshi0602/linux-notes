@@ -1,0 +1,11 @@
+Git Workflow
+
+Common Git workflow:
+
+1. Create branch
+2. Make changes
+3. Commit changes
+4. Merge branch
+5. Push to GitHub
+
+Git workflows help teams collaborate efficiently.
