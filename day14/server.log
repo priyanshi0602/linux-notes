@@ -1,0 +1,5 @@
+echo "Server started" >> server.log
+
+echo "User login successful" >> server.log
+
+echo "Disk check completed" >> server.log

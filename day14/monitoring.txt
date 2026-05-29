@@ -1,0 +1,13 @@
+System Monitoring
+
+Monitoring helps track:
+- system health
+- errors
+- resource usage
+- server activity
+
+Linux monitoring tools:
+- top
+- htop
+- tail
+- journalctl

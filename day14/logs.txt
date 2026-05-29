@@ -1,0 +1,12 @@
+Linux Logs
+
+Logs store system activity and events.
+
+Logs help administrators:
+- detect issues
+- monitor servers
+- debug applications
+- track security events
+
+Common log locations:
+/var/log/

@@ -1,0 +1,14 @@
+head and tail Commands
+
+head shows beginning of files.
+
+Example:
+head filename
+
+tail shows end of files.
+
+Example:
+tail filename
+
+Real-time monitoring:
+tail -f filename
