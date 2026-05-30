@@ -1,0 +1,23 @@
+IF ELSE CONDITIONS
+
+Used for decision making.
+
+Syntax:
+
+if [ condition ]
+then
+    command
+else
+    command
+fi
+
+Example:
+
+number=10
+
+if [ $number -gt 5 ]
+then
+    echo "Greater than 5"
+else
+    echo "Less than or equal to 5"
+fi

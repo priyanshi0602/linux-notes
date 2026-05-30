@@ -1,0 +1,12 @@
+USER INPUT IN BASH
+
+The read command is used to take input from the user.
+
+Example:
+
+echo "Enter your name:"
+read name
+
+echo "Hello $name"
+
+Useful for interactive scripts.
