@@ -1,0 +1,29 @@
+Cron Review
+
+Cron executes scheduled jobs automatically.
+
+Format:
+
+* * * * * command
+| | | | |
+| | | | +--- Day of Week
+| | | +----- Month
+| | +------- Day of Month
+| +--------- Hour
++----------- Minute
+
+Examples:
+
+*/5 * * * * command
+
+Runs every 5 minutes.
+
+0 0 * * * command
+
+Runs every day at midnight.
+
+Uses:
+- backups
+- log cleanup
+- monitoring
+- report generation

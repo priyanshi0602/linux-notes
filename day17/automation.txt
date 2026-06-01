@@ -1,0 +1,16 @@
+Linux Automation
+
+Automation reduces manual work.
+
+Examples:
+- backups
+- monitoring
+- health checks
+- deployments
+
+Benefits:
+- saves time
+- reduces human error
+- improves consistency
+
+Automation is a core DevOps practice.
