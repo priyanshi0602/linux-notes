@@ -1,0 +1,9 @@
+Script Organization
+
+Good scripts should:
+- use functions
+- have comments
+- use meaningful variable names
+- be easy to read
+
+Functions help break large scripts into smaller sections.

@@ -1,0 +1,22 @@
+Bash Functions
+
+Functions allow reusable blocks of code.
+
+Syntax:
+
+function_name() {
+    commands
+}
+
+Example:
+
+greet() {
+    echo "Hello World"
+}
+
+greet
+
+Benefits:
+- reusable code
+- cleaner scripts
+- easier maintenance
