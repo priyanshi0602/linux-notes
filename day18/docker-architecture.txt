@@ -1,0 +1,19 @@
+Docker Architecture
+
+Main Components:
+
+1. Docker Engine
+   Runs containers.
+
+2. Docker Image
+   Blueprint/template for a container.
+
+3. Docker Container
+   Running instance of an image.
+
+4. Docker Hub
+   Repository for Docker images.
+
+Workflow:
+
+Docker Image -> Docker Container

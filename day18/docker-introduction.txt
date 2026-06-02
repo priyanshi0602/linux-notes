@@ -1,0 +1,17 @@
+Docker Introduction
+
+Docker is a containerization platform.
+
+Containers package:
+- Application
+- Dependencies
+- Libraries
+- Configuration
+
+Benefits:
+- Portability
+- Consistency
+- Faster deployment
+- Isolation
+
+Docker allows applications to run the same way across different environments.

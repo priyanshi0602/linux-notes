@@ -1,0 +1,25 @@
+Basic Docker Commands
+
+docker --version
+Check Docker version.
+
+docker pull image-name
+Download an image.
+
+docker images
+List downloaded images.
+
+docker run image-name
+Run a container.
+
+docker ps
+Show running containers.
+
+docker ps -a
+Show all containers.
+
+docker stop container-id
+Stop a running container.
+
+docker rm container-id
+Remove a container.
