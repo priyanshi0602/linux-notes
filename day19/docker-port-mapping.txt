@@ -1,0 +1,14 @@
+Docker Port Mapping
+
+Syntax:
+
+docker run -p host-port:container-port image-name
+
+Example:
+
+docker run -p 8080:80 nginx
+
+8080 = Host Port
+80 = Container Port
+
+Port mapping allows external access to services running inside containers.

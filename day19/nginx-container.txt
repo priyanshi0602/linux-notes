@@ -1,0 +1,15 @@
+NGINX Container
+
+NGINX is a popular web server.
+
+Docker allows NGINX to run inside a container.
+
+Benefits:
+- Easy deployment
+- Isolation
+- Fast setup
+
+NGINX is commonly used for:
+- Hosting websites
+- Reverse proxy
+- Load balancing
