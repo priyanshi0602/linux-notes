@@ -1,0 +1,13 @@
+Building Docker Images
+
+Syntax:
+
+docker build -t image-name .
+
+Example:
+
+docker build -t priyanshi-nginx .
+
+The -t option assigns a name to the image.
+
+Images are used to create containers.
