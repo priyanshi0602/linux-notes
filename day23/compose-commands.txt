@@ -1,0 +1,16 @@
+Docker Compose Commands
+
+Start services:
+docker compose up
+
+Start in background:
+docker compose up -d
+
+Stop services:
+docker compose down
+
+View running services:
+docker compose ps
+
+View logs:
+docker compose logs

@@ -1,0 +1,16 @@
+Docker Compose
+
+Docker Compose is a tool used to define and run multi-container applications.
+
+Instead of running multiple docker run commands, all services are defined in a single YAML file.
+
+Benefits:
+1. Easy management of multiple containers
+2. Simple configuration
+3. Reproducible environments
+
+Main File:
+docker-compose.yml
+
+Common Command:
+docker compose up
