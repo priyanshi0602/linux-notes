@@ -1,0 +1,15 @@
+Dockerizing Applications
+
+Dockerizing means packaging an application and all its dependencies into a Docker image.
+
+Benefits:
+- Consistent environments
+- Easy deployment
+- Portability
+- Scalability
+
+Process:
+1. Create application
+2. Create Dockerfile
+3. Build image
+4. Run container

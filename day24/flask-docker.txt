@@ -1,0 +1,10 @@
+Flask and Docker
+
+Flask is a lightweight Python web framework.
+
+To containerize a Flask application:
+1. Create app.py
+2. Create requirements.txt
+3. Create Dockerfile
+4. Build image
+5. Run container
