@@ -1,0 +1,8 @@
+Docker Compose Workflow
+
+1. Create application
+2. Create Dockerfile
+3. Create docker-compose.yml
+4. Run docker compose up
+5. Access application
+6. Stop using docker compose down

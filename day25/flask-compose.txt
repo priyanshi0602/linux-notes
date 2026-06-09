@@ -1,0 +1,11 @@
+Flask with Docker Compose
+
+Docker Compose can be used to run Flask applications.
+
+Benefits:
+1. Easier deployment
+2. Service management
+3. Reproducible environments
+
+Workflow:
+Application -> Dockerfile -> Compose -> Container
