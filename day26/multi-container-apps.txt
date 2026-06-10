@@ -1,0 +1,11 @@
+Multi-Container Applications
+
+Modern applications are usually made of multiple services.
+
+Examples:
+- Web Application
+- Database
+- Cache
+- Message Queue
+
+Docker Compose helps manage all services together.

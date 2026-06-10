@@ -1,0 +1,10 @@
+Redis with Docker Compose
+
+Redis is an in-memory data store.
+
+Common Uses:
+- Caching
+- Session Storage
+- Fast Data Access
+
+Compose can run Redis alongside application containers.
