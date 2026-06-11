@@ -1,0 +1,9 @@
+Flask and Nginx Architecture
+
+Browser
+   ↓
+Nginx
+   ↓
+Flask Application
+
+Nginx handles incoming requests and forwards them to Flask.
