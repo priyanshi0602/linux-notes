@@ -1,0 +1,13 @@
+Environment Variables
+
+Environment variables store configuration outside application code.
+
+Benefits:
+- Security
+- Flexibility
+- Easy configuration changes
+
+Examples:
+APP_NAME=DevOpsApp
+PORT=5000
+DEBUG=True

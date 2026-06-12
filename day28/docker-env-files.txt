@@ -1,0 +1,12 @@
+Docker Environment Files
+
+Docker Compose can load variables from .env files.
+
+Benefits:
+1. Centralized configuration
+2. Easier deployments
+3. Cleaner code
+
+Example:
+
+APP_NAME=MyApp
