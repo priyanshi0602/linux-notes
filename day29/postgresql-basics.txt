@@ -1,0 +1,14 @@
+PostgreSQL Basics
+
+PostgreSQL is an open-source relational database.
+
+Features:
+- SQL support
+- Reliability
+- Scalability
+- ACID compliance
+
+Common Uses:
+- Web applications
+- Enterprise systems
+- Analytics

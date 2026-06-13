@@ -1,0 +1,10 @@
+Databases in Docker
+
+Databases can run as containers.
+
+Benefits:
+- Easy setup
+- Isolation
+- Portability
+
+Docker Compose can connect applications with databases.
