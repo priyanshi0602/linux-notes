@@ -1,0 +1,12 @@
+Custom Docker Networks
+
+Docker allows creation of user-defined networks.
+
+Benefits:
+- Container isolation
+- Better communication
+- Automatic DNS resolution
+
+Command:
+
+docker network create mynetwork

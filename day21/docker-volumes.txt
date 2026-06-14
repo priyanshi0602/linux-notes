@@ -1,0 +1,18 @@
+Docker Volumes
+
+A Docker volume is a storage mechanism that allows data to persist outside a container.
+
+Without volumes:
+- Data is lost when a container is removed.
+
+With volumes:
+- Data remains even if the container is deleted.
+
+Benefits:
+1. Persistent storage
+2. Data sharing between containers
+3. Easier backups
+
+Common Command:
+
+docker volume create <volume-name>

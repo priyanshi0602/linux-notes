@@ -1,0 +1,16 @@
+Docker Volume Commands
+
+Create a volume:
+docker volume create mydata
+
+List volumes:
+docker volume ls
+
+Inspect a volume:
+docker volume inspect mydata
+
+Remove a volume:
+docker volume rm mydata
+
+Remove unused volumes:
+docker volume prune

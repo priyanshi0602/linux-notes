@@ -1,0 +1,20 @@
+Docker Networking
+
+Docker networking allows containers to communicate with each other and with external systems.
+
+Types of Docker Networks:
+
+1. Bridge Network
+   - Default network created by Docker
+   - Containers can communicate using container names
+
+2. Host Network
+   - Container shares host network
+
+3. None Network
+   - No network access
+
+Benefits:
+- Container communication
+- Service isolation
+- Better security

@@ -1,0 +1,16 @@
+Docker Network Commands
+
+List networks:
+docker network ls
+
+Inspect a network:
+docker network inspect bridge
+
+Create a network:
+docker network create mynetwork
+
+Connect container to network:
+docker network connect mynetwork <container>
+
+Remove network:
+docker network rm mynetwork

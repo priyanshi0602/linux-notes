@@ -1,0 +1,9 @@
+Container Communication
+
+Containers on the same network can communicate using container names.
+
+Example:
+
+container1 -> container2
+
+No IP address is required.
