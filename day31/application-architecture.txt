@@ -1,0 +1,15 @@
+Application Architecture
+
+Typical web application:
+
+User
+ ↓
+Frontend
+ ↓
+Backend
+ ↓
+Database
+
+Optional:
+Redis Cache
+Nginx Reverse Proxy

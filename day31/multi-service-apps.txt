@@ -1,0 +1,12 @@
+Multi-Service Applications
+
+Modern applications rarely run as a single service.
+
+Example:
+
+Frontend
+Backend
+Database
+Cache
+
+Docker Compose helps manage multiple services together.
