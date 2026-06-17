@@ -1,0 +1,21 @@
+Docker Volumes
+
+Containers are temporary and can be deleted.
+
+Data stored inside a container may be lost when the container is removed.
+
+Docker Volumes provide persistent storage independent of containers.
+
+Benefits:
+- Data persistence
+- Easier backups
+- Better container lifecycle management
+
+Commands:
+docker volume create
+docker volume ls
+docker volume inspect
+docker volume rm
+
+Volume Example:
+docker run -v myvolume:/data ubuntu
